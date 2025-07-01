@@ -31,6 +31,7 @@ Here’s a quick look at what I do and what I am passionate about:
 ---
 
 🧑‍🏫 **Teaching**
+
 I teach courses such as **Advanced Database & Security**, **Advanced Topics in AI**, and **Biometrics & Cryptography**, with a focus on hands-on, research-driven learning.  
 ➡️ See more on my [Teaching](/teaching/) page.
 
