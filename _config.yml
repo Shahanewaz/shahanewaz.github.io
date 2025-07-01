@@ -20,7 +20,7 @@ repository: "Shahanewaz/shahnewaz_website.github.io"
 #  Sidebar / author box
 ###############################################################################
 author:
-  avatar      : "/images/profile_pic_2.png"            # path is correct – picture exists :contentReference[oaicite:0]{index=0}
+  avatar      : "profile_pic_2.png"            # path is correct – picture exists :contentReference[oaicite:0]{index=0}
   name        : "Shahnewaz Sakib"
   bio         : "Researcher in AI safety & privacy‑preserving ML – turning theory into practice"
   location    : "Chattanooga, TN"
