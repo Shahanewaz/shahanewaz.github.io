@@ -11,7 +11,7 @@ repository               : "Shahnewaz/shahnewaz_website.github.io"
 
 # Site Author (Sidebar Profile)
 author:
-  avatar           : "/images/profile.jpg"
+  avatar           : "/images/profile.png"
   name             : "Shahnewaz Sakib"
   bio              : "Researcher in AI safety and privacy-preserving machine learning, focused on turning theory into practice"
   location         : "Chattanooga, TN"
