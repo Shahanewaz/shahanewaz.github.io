@@ -12,7 +12,7 @@ main:
     url: /portfolio/
 
   - title: "Research Focus"
-    url: /portfolio/
+    url: /research/
     
   - title: "Publications"
     url: /publications/
