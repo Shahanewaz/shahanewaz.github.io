@@ -44,7 +44,7 @@ I teach courses such as **Advanced Database & Security**, **Advanced Topics in A
 - *Dec 2024*: The paper **"Information Leakage Measures for Imperfect Statistical Information: Application to Non-Bayesian Framework"** was accepted in **IEEE Transactions on Information Forensics and Security**  
 - *Oct 2024*: Received acceptance for our paper **"Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations"** at the **2024 IEEE International Conference on Big Data**  
 - *Jan 2024*: Started my position as **Assistant Professor** at the **University of Tennessee at Chattanooga**
-- 
+  
 ---
 
 🤝 **Collaboration Opportunities**  
