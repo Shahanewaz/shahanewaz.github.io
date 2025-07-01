@@ -52,6 +52,6 @@ Mentorship
 
 **Undergraduate Students**
 * **Current**
-  * Niklas Dobler  
+ 
 * **Graduated**
   * Austin Nicolas (REU) – PipelineEDU: Creating High-Quality Synthetic Data for Educational Research and Applications (Summer 2024)
