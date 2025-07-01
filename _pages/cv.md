@@ -41,8 +41,6 @@ Service and Leadership
 
 Mentorship
 ======
-Mentorship
-======
 **Graduate Students**
 * **Current**
   * Swati Kar (PhD) 
