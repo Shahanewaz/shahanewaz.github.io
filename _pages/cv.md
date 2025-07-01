@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Engineering, Iowa State University, 2023  
+  * Thesis: *A general framework of estimating information leakage for privacy and forensics problems with imperfect statistical information*  
+  * Advisors: Dr. Yong Guan and Dr. George Amariucai  
+  * Focus Area: Secure and Reliable Computing  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* B.Sc. in Electrical and Electronic Engineering, BUET, 2015  
+  * Focus Area: Wireless Communication and Signal Processing  
+  * Advisor: Dr. Md. Saifur Rahman  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work Experience
+======
+* Assistant Professor, University of Tennessee at Chattanooga (Jan 2024 – Present)  
+* Statistical Data Science Intern, SoilSerdem Inc, Ames, IA (Aug 2023 – Dec 2023)  
+* Graduate Teaching Assistant, Iowa State University (2023)  
+* Graduate Research Assistant, Iowa State University (2017 – 2023)  
+* Lecturer, Presidency University, Dhaka (2016)  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Courses Taught
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Database and Database Security** – Fall 2024  
+* **Advanced Topics in Artificial Intelligence** – Spring 2024, Spring 2025  
+* **Biometrics and Cryptography** – Spring 2025  
 
-Publications
+Service and Leadership
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* TPC Chair, IEEE Conference on Trust, Privacy & Security in Intelligent Systems 2025  
+* Reviewer, AAAI, IEEE Communications Magazine, ACM ToN, PPAI-25, ICDF2C  
+
+Mentorship
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+Mentorship
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Graduate Students**
+* **Current**
+  * Swati Kar (PhD) 
+  * Ammar Tojaga (MS)
+* **Graduated**
+  * Caleb Henderson (MS) – Benchmarking Variational Autoencoders for Single-Cell RNA-Seq on PBMC Data (Spring 2025)
+  * Jordan Selph (MS) – The Science of Soccer: Predicting Premier League Outcomes Using Historical Data (Fall 2024)
+  * Milan Artis (MS) – A Comparative Study of the Performance of Machine Learning Methods and Deep Neural Networks in Network Intrusion Detection (Summer 2024)  
+
+**Undergraduate Students**
+* **Current**
+  * Niklas Dobler  
+* **Graduated**
+  * Austin Nicolas (REU) – PipelineEDU: Creating High-Quality Synthetic Data for Educational Research and Applications (Summer 2024)
