@@ -8,10 +8,10 @@ classes:      wide                 # optional wider text column
 
 <style>
 /* ──────────────────────────────────────────────────────
-   Minimal, page‑local CSS to keep each thrust tidy
+   Page‑local CSS – only the two numbers below changed
    ──────────────────────────────────────────────────── */
 .thrust-row        {display:flex; flex-wrap:wrap; gap:1.25rem; margin:2rem 0;}
-.thrust-row img    {width:160px; height:160px; object-fit:cover; border-radius:4px;}
+.thrust-row img    {width:240px; height:180px; object-fit:cover; border-radius:4px;}
 .thrust-content h3 {margin:0 0 0.5rem 0; font-size:1.15rem;}
 .paper-links a     {margin-right:0.6rem;}
 /* ──────────────────────────────────────────────────── */
@@ -54,7 +54,7 @@ My work is grounded in building **trustworthy AI systems** that are not only eff
 ---
 
 <div class="thrust-row">
-  <img src="{{ '/images/thrust3.png' | relative_url }}" alt="Thrust 3">
+  <img src="{{ '/images/thrust3.JPG' | relative_url }}" alt="Thrust 3">
   <div class="thrust-content">
     <h3>🔒 Thrust 3 · Privacy Leakage Metrics Under Incomplete Information </h3>
     <p><strong>Objective:</strong> This thrust focuses on developing realistic information leakage metrics for privacy scenarios where adversaries have imperfect or incomplete knowledge about the data or the privacy mechanism. Unlike traditional approaches, which assume attackers know the entire statistical structure of the system, these works recognize that real-world adversaries often operate with only partial or estimated information. The thrust systematically introduces new subjective and objective leakage metrics that capture both the beliefs of adversaries and the actual leakage from the system, analyzing and optimizing these metrics for different privacy mechanisms, including extensions to complex, high-dimensional, and non-Bayesian settings.</p>
@@ -71,7 +71,7 @@ My work is grounded in building **trustworthy AI systems** that are not only eff
 ---
 
 <div class="thrust-row">
-  <img src="{{ '/images/thrust4.png' | relative_url }}" alt="Thrust 4">
+  <img src="{{ '/images/thrust4.PNG' | relative_url }}" alt="Thrust 4">
   <div class="thrust-content">
     <h3>🛡️ Thrust 4 · Scalable Privacy & Security Solutions</h3>
     <p><strong>Objective:</strong> This thrust develops practical, scalable methods to protect sensitive data in AI and networked systems, including privacy-preserving learning, secure data sharing, and robust key management. It emphasizes solutions that balance strong privacy guarantees with real-world usability and performance.</p>
