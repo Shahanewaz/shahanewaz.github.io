@@ -1,33 +1,69 @@
-# Basic Site Settings
-locale                   : "en-US"
-minimal_mistakes_skin    : "air"
-title                    : "Shahnewaz Sakib | Assistant Professor, UTC 🧑‍🔬"
-title_separator          : "-"
-name                     : &name "Shahnewaz's Website"
-description              : &description "Personal Website"
-url                      : "https://shahanewaz.github.io"
-baseurl                  : ""
-repository               : "Shahnewaz/shahnewaz_website.github.io"
+###############################################################################
+#  Basic site settings
+###############################################################################
+locale                  : "en-US"
+minimal_mistakes_skin   : "air"
 
-# Site Author (Sidebar Profile)
+title                   : "Shahnewaz Sakib | Assistant Professor, UTC 🧑‍🔬"
+title_separator         : "-"
+name                    : "Shahnewaz's Website"
+description             : "Personal website"
+
+# ––– GitHub Pages plumbing –––
+url       : "https://shahanewaz.github.io"      # always without trailing /
+baseurl   : "/shahnewaz_website.github.io"      # leading slash **ONLY** if you keep the repo name
+# (If you rename the repo to shahanewaz.github.io, change the line above to: baseurl: "")
+
+repository: "Shahanewaz/shahnewaz_website.github.io"
+
+###############################################################################
+#  Sidebar / author box
+###############################################################################
 author:
-  avatar           : "/images/profile.png"
-  name             : "Shahnewaz Sakib"
-  bio              : "Researcher in AI safety and privacy-preserving machine learning, focused on turning theory into practice"
-  location         : "Chattanooga, TN"
-  employer         : "University of Tennessee at Chattanooga"
-  email            : "shahnewazkarim-sakib@utc.edu"
-  googlescholar    : "https://scholar.google.com/citations?user=u5JRM_EAAAAJ&hl=en"
-  linkedin         : "shahnewaz-karim-sakib"
-  # github: "Shahanewaz"   ← removed to stop “Follow: GitHub” in footer
+  avatar      : "/images/profile.png"            # path is correct – picture exists :contentReference[oaicite:0]{index=0}
+  name        : "Shahnewaz Sakib"
+  bio         : "Researcher in AI safety & privacy‑preserving ML – turning theory into practice"
+  location    : "Chattanooga, TN"
+  employer    : "University of Tennessee at Chattanooga"
+  email       : "shahnewazkarim-sakib@utc.edu"
+  googlescholar: "https://scholar.google.com/citations?user=u5JRM_EAAAAJ&hl=en"
+  linkedin    : "shahnewaz-karim-sakib"
+  # github    : "Shahanewaz"      # ⟵ comment‑out or delete → footer bullet disappears
 
-# Footer cleanup
+###############################################################################
+#  Footer
+###############################################################################
 footer:
-  links: []  # remove Follow and GitHub
-copyright:
-  enabled: false  # remove attribution
+  links: []              # explicit empty list suppresses the “Follow:” section
+  copyright:
+    enabled: false       # hide the Minimal‑Mistakes attribution
 
-# Collection Settings
+###############################################################################
+#  Content collections
+###############################################################################
+collections:
+  teaching   : {output: true, permalink: /:collection/:path/}
+  publications: {output: true, permalink: /:collection/:path/}
+  portfolio  : {output: true, permalink: /:collection/:path/}
+  talks      : {output: true, permalink: /:collection/:path/}
+
+###############################################################################
+#  Build & plugin settings
+###############################################################################
+permalink : /:categories/:title/
+markdown  : kramdown
+highlighter: rouge
+timezone  : America/New_York          # pick yours
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-redirect-from
+
+###############################################################################
+#  Include / exclude
+###############################################################################
 include:
   - .htaccess
   - _pages
@@ -44,81 +80,32 @@ exclude:
   - tmp
   - _site
 
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
-# Defaults
+###############################################################################
+#  YAML defaults for various content types
+###############################################################################
 defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
+  - scope: {path: "", type: posts}
+    values: {layout: single, author_profile: true, read_time: true, comments: false, share: true}
 
-# Output and Build
-permalink: /:categories/:title/
-markdown: kramdown
-highlighter: rouge
-timezone: Etc/UTC
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-redirect-from
+  - scope: {path: "", type: pages}
+    values: {layout: single, author_profile: true}
 
-whitelist:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-redirect-from
+  - scope: {path: "", type: teaching}
+    values: {layout: single, author_profile: true}
 
+  - scope: {path: "", type: publications}
+    values: {layout: single, author_profile: true}
+
+  - scope: {path: "", type: portfolio}
+    values: {layout: single, author_profile: true}
+
+  - scope: {path: "", type: talks}
+    values: {layout: talk, author_profile: true}
+
+###############################################################################
+#  Optional: compress the final HTML
+###############################################################################
 compress_html:
-  clippings: all
-  ignore:
-    envs: development
+  clippings : all
+  ignore    : []
+  envs      : ["production"]
