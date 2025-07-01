@@ -11,7 +11,7 @@ description             : "Personal website"
 
 # ––– GitHub Pages plumbing –––
 url       : "https://shahanewaz.github.io"      # always without trailing /
-baseurl   : "/shahnewaz_website.github.io"      # leading slash **ONLY** if you keep the repo name
+baseurl   : ""      # leading slash **ONLY** if you keep the repo name
 # (If you rename the repo to shahanewaz.github.io, change the line above to: baseurl: "")
 
 repository: "Shahanewaz/shahnewaz_website.github.io"
@@ -24,7 +24,7 @@ author:
   name        : "Shahnewaz Sakib"
   bio         : "Researcher in AI safety & privacy‑preserving ML – turning theory into practice"
   location    : "Chattanooga, TN"
-  employer    : "University of Tennessee at Chattanooga"
+  employer    : "UT Chattanooga"
   email       : "shahnewazkarim-sakib@utc.edu"
   googlescholar: "https://scholar.google.com/citations?user=u5JRM_EAAAAJ&hl=en"
   linkedin    : "shahnewaz-karim-sakib"
