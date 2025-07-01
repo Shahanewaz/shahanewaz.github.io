@@ -22,7 +22,7 @@ repository               : "Shahnewaz/shahnewaz_website.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.jpg"
+  avatar           : "profile_pic_2.png"
   name             : "Shahnewaz Sakib"
   pronouns         : # example: "He/Him"  
   bio              : "Researcher in AI safety and privacy-preserving machine learning, focused on turning theory into practice"
