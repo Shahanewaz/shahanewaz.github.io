@@ -16,3 +16,5 @@ This graduate-level course explores the evolving landscape of Trustworthy AI, wi
 - Robustness in Large Language Models
 
 Students critically engage with recent research and apply insights through hands-on projects and technical presentations. The course is designed to bridge theory and practice, preparing students to develop AI systems that are not only powerful, but also responsible and reliable.
+
+---
