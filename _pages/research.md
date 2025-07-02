@@ -71,7 +71,7 @@ classes:      wide
 
 ## Selected Publications
 
-Below is a short selection of recent papers.  
+Here are a few recent publications highlighting my current research directions. 
 
 <div class="pub-entry">
   <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.174537593.33953859">
