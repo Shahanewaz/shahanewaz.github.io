@@ -18,7 +18,7 @@ classes:      wide
   flex: 1 1 60%;
 }
 .outside-row img {
-  max-width: 300px;
+  max-width: 200px;
   height: auto;
   border-radius: 6px;
 }
