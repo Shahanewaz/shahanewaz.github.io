@@ -11,8 +11,8 @@ main:
   - title: "Research Projects"
     url: /portfolio/
 
-  # - title: "Research Focus"
-  #   url: /research/
+  - title: "Research Group"
+    url: /research/
     
   # - title: "Publications"
   #   url: /publications/
