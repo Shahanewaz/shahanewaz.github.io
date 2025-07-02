@@ -61,3 +61,44 @@ classes:      wide
 
 ---
 
+## Selected Publications
+
+Below is a short selection of recent papers.  
+
+<div class="pub-entry">
+  <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.174537593.33953859">
+    <strong>Breaking the Shield: Vulnerabilities in Content Moderation for Multimodal Language Models</strong>
+  </a><br>
+  <span class="author">Anindya Bijoy Das, <u>Shahnewaz Karim Sakib</u></span>
+</div>
+
+<div class="pub-entry">
+  <a href="https://arxiv.org/abs/2504.19061">
+    <strong>Hallucinations and Key Information Extraction in Medical Texts: A Comprehensive Assessment of Open-Source Large Language Models</strong>
+  </a><br>
+  <span class="author">Anindya Bijoy Das, Shibbir Ahmed, <u>Shahnewaz Karim Sakib</u></span>
+</div>
+
+<div class="pub-entry">
+  <a href="https://aclanthology.org/2025.trustnlp-main.28/">
+    <strong>Battling Misinformation: An Empirical Study on Adversarial Factuality in Open-Source Large Language Models</strong>
+  </a><br>
+  <span class="author"><u>Shahnewaz Karim Sakib</u>, Anindya Bijoy Das, and Shibbir Ahmed</span>
+</div>
+
+<div class="pub-entry">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10825082">
+    <strong>Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations</strong>
+  </a><br>
+  <span class="author"><u>Shahnewaz Karim Sakib</u>, Anindya Bijoy Das</span>
+</div>
+
+<div class="pub-entry">
+  <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=u5JRM_EAAAAJ&citation_for_view=u5JRM_EAAAAJ:Tyk-4Ss8FVUC">
+    <strong>Information Leakage Measures for Imperfect Statistical Information: Application to Non-Bayesian Framework</strong>
+  </a><br>
+  <span class="author"><u>Shahnewaz Karim Sakib</u>, George T. Amariucai, Yong Guan</span>
+</div>
+
+For the complete list, please visit my&nbsp;<a href="https://scholar.google.com/citations?user=u5JRM_EAAAAJ&hl=en">Google Scholar profile</a>.
+---
