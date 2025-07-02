@@ -18,3 +18,5 @@ This senior undergraduate and graduate-level course bridges the fields of crypto
 - Integration of cryptographic techniques with biometric authentication
 
 The course features hands-on programming assignments, applied projects, and interactive presentations that encourage critical thinking about the role of security in biometric systems and identity management.
+
+---
