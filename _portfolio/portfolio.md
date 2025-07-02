@@ -11,7 +11,7 @@ classes:      wide                 # optional wider text column
    Page‑local CSS – only the two numbers below changed
    ──────────────────────────────────────────────────── */
 .thrust-row        {display:flex; flex-wrap:wrap; gap:1.25rem; margin:2rem 0;}
-.thrust-row img    {width:100px; height:auto; object-fit:cover; border-radius:4px;}
+.thrust-row img    {width:130px; height:auto; object-fit:cover; border-radius:4px;}
 .thrust-content h3 {margin:0 0 0.5rem 0; font-size:1.15rem;}
 .paper-links a     {margin-right:0.6rem;}
 /* ──────────────────────────────────────────────────── */
