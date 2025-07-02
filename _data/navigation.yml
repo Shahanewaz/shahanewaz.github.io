@@ -35,5 +35,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Away from Academia"
+    url: /beyond_research/
