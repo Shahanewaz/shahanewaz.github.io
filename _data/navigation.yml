@@ -23,8 +23,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Community Engagement"
+    url: /engagement/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
