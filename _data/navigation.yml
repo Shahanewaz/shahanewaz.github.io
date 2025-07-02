@@ -32,8 +32,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
   - title: "Away from Academia"
-    url: /beyond/
+    url: /cv-json/
+    
+  # - title: "Away from Academia"
+  #   url: /beyond/
