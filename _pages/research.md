@@ -8,10 +8,11 @@ classes:      wide
 
 <style>
 /* ──────────────────────────────────────────────────────
-   Page‑local CSS for a tidy left‑image / right‑text layout
+   Page‑local CSS: flex layout only—no width/height set,
+   so images appear at their native size.
    ──────────────────────────────────────────────────── */
 .member-row         {display:flex; flex-wrap:wrap; gap:1.25rem; margin:2rem 0;}
-.member-row img     {width:200px; height:200px; object-fit:cover; border-radius:4px;}
+.member-row img     {border-radius:4px;}   /* keeps corners slightly rounded */
 .member-content h3  {margin:0 0 0.4rem 0;}
 .member-content p   {margin:0.2rem 0;}
 /* ──────────────────────────────────────────────────── */
@@ -20,7 +21,7 @@ classes:      wide
 ## Current Students
 
 <div class="member-row">
-  <img src="{{ '/images/swati_kar.jpg' | relative_url }}" alt="Swati Kar">
+  <img src="{{ '/images/profile.png' | relative_url }}" alt="Swati Kar">
   <div class="member-content">
     <h3>Swati Kar  ·  Ph.D. Student (2024 – )</h3>
     <p><strong>Research Focus:</strong> Differential privacy &amp; machine unlearning in federated healthcare systems.</p>
