@@ -47,7 +47,6 @@ classes:      wide
 ## Graduated Students
 
 <div class="member-row">
-  <img src="{{ '/images/profile.png' | relative_url }}" alt="Caleb Henderso">
   <div class="member-content">
     <h3>Caleb Henderson  ·  M.S. (Spring 2025)</h3>
     <p><strong>Project Title:</strong> “Benchmarking Variational Autoencoders for Single-Cell RNA-Seq on PBMC Data.”</p>
