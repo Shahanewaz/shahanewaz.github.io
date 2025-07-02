@@ -1,5 +1,5 @@
 ---
-title:        "Research & Projects"
+title:        "Research Projects"
 permalink:    /portfolio/          # ← must match your nav‑bar link
 layout:       single
 author_profile: true               # shows avatar + sidebar
