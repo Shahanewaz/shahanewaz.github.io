@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate and Senior Level Undergraduate course"
 permalink: /teaching/fall-teaching-1
 venue: "University of Tennessee at Chattanooga, Computer Science and Engineering"
+date: 2024-08-19
 location: "Chattanooga, TN"
 ---
 
