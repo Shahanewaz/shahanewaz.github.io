@@ -46,4 +46,4 @@ I teach courses such as Advanced Database & Security, Advanced Topics in AI, and
 ---
 
 🤝 **Collaboration Opportunities**  
-I am always happy to connect with fellow researchers, students, or industry collaborators interested in advancing responsible AI. Whether it’s about research partnerships, mentoring opportunities, or just exchanging ideas, feel free to [reach out](mailto:sakib1@utc.edu).
+I am always happy to connect with fellow researchers, students, or industry collaborators interested in advancing responsible AI. Whether it’s about research partnerships, mentoring opportunities, or just exchanging ideas, feel free to [reach out](mailto:ssakib1@utc.edu).
