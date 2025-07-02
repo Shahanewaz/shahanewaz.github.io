@@ -94,7 +94,7 @@ Below is a short selection of recent papers.
 </div>
 
 <div class="pub-entry">
-  <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=u5JRM_EAAAAJ&citation_for_view=u5JRM_EAAAAJ:Tyk-4Ss8FVUC">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10795215">
     <strong>Information Leakage Measures for Imperfect Statistical Information: Application to Non-Bayesian Framework</strong>
   </a><br>
   <span class="author"><u>Shahnewaz Karim Sakib</u>, George T. Amariucai, Yong Guan</span>
