@@ -1,4 +1,10 @@
-## Who I Am Outside the Lab
+---
+title:        "Who I Am Outside the Lab"
+permalink:    /beyond/
+layout:       single
+author_profile: true
+classes:      wide
+---
 
 <style>
 .outside-row {
