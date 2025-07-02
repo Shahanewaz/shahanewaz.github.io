@@ -49,8 +49,8 @@ classes:      wide
 <div class="member-row">
   <img src="{{ '/images/profile.png' | relative_url }}" alt="Caleb Henderso">
   <div class="member-content">
-    <h3>Caleb Henderson  ·  M.S. (Srping 2025)</h3>
-    <p><strong>Project:</strong> “Benchmarking Variational Autoencoders for Single-Cell RNA-Seq on PBMC Data.”</p>
+    <h3>Caleb Henderson  ·  M.S. (Spring 2025)</h3>
+    <p><strong>Project Title:</strong> “Benchmarking Variational Autoencoders for Single-Cell RNA-Seq on PBMC Data.”</p>
   </div>
 </div>
 
@@ -58,7 +58,7 @@ classes:      wide
   <img src="{{ '/images/profile.png' | relative_url }}" alt="Jordan Selph">
   <div class="member-content">
     <h3>Jordan Selph  ·  M.S. (Fall 2024)</h3>
-    <p><strong>Project:</strong> “The Science of Soccer: Predicting Premier League Outcomes Using Historical Data.”</p>
+    <p><strong>Project Title:</strong> “The Science of Soccer: Predicting Premier League Outcomes Using Historical Data.”</p>
   </div>
 </div>
 
