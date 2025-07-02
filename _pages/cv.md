@@ -37,13 +37,13 @@ Courses Taught
 Service and Leadership
 ======
 - **Technical Program Committee Chair**  
-  *[IEEE DISTILL 2025: Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs](https://ieeedistill.github.io/)*
+  *IEEE DISTILL 2025: Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs*
 
 - **Reviewer**  
-  *[IEEE Communications Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35)*  
-  *[IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)*  
-  *[PPAI-25: The 6th AAAI Workshop on Privacy-Preserving Artificial Intelligence](https://ppai-workshop.github.io/)*  
-  *[16th EAI International Conference on Digital Forensics & Cyber Crime](https://icdf2c.eai-conferences.org/2025/)* 
+  *IEEE Communications Magazine*  
+  *IEEE/ACM Transactions on Networking*  
+  *PPAI-25: The 6th AAAI Workshop on Privacy-Preserving Artificial Intelligence*  
+  *16th EAI International Conference on Digital Forensics & Cyber Crime* 
 
 Mentorship
 ======
