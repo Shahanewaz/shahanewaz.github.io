@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/spring-teaching-1
 venue: "University of Tennessee at Chattanooga, Computer Science and Engineering"
+date: 2024-01-08 and 2024-01-08
 location: "Chattanooga, TN"
 ---
 
