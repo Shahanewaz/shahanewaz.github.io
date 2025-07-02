@@ -19,3 +19,5 @@ This senior undergraduate and graduate-level course explores the intersection of
 - Ethical AI and trustworthy data-driven systems
 
 The course combines foundational principles with real-world applications through projects, assignments, and interactive discussions. Graduate students complete additional work focusing on critical analysis and research-driven reporting.
+
+---
