@@ -29,7 +29,7 @@ classes:      wide
 <div class="member-row">
   <img src="{{ '/images/profile.png' | relative_url }}" alt="Swati Kar">
   <div class="member-content">
-    <h3>Swati Kar · Ph.D. Student (2024– )</h3>
+    <h3>Swati Kar · Ph.D. Student (2025 – )</h3>
     <p>Swati Kar is a doctoral student. She is currently focused on integrating concepts of differential privacy and machine unlearning in federated healthcare systems.</p>
   </div>
 </div>
@@ -37,7 +37,7 @@ classes:      wide
 <div class="member-row">
   <img src="{{ '/images/Ammar.jpg' | relative_url }}" alt="Ammar Tojaga">
   <div class="member-content">
-    <h3>Ammar Tojaga · M.S. Student (Cybersecurity, UTC)</h3>
+    <h3>Ammar Tojaga · M.S. Student (2025 - )</h3>
     <p>Ammar Tojaga is pursuing his Master’s in Cybersecurity at UTC while working full-time as a software engineer at TVA. He is working on to develop a competitive learning platform that introduces students to AI safety and prompt injection. In his free time, he enjoys soccer, the outdoors, and working on side projects.</p>
   </div>
 </div>
@@ -47,18 +47,26 @@ classes:      wide
 ## Graduated Students
 
 <div class="member-row">
-  <img src="{{ '/images/profile.png' | relative_url }}" alt="Carol Lee">
+  <img src="{{ '/images/profile.png' | relative_url }}" alt="Caleb Henderso">
   <div class="member-content">
-    <h3>Carol Lee  ·  M.S. 2023</h3>
-    <p><strong>Thesis:</strong> “Differential‑Privacy‑Aware SHAP for Healthcare Diagnostics.”</p>
+    <h3>Caleb Henderson  ·  M.S. (Srping 2025)</h3>
+    <p><strong>Project:</strong> “Benchmarking Variational Autoencoders for Single-Cell RNA-Seq on PBMC Data.”</p>
   </div>
 </div>
 
 <div class="member-row">
-  <img src="{{ '/images/profile.png' | relative_url }}" alt="Bob Smith">
+  <img src="{{ '/images/profile.png' | relative_url }}" alt="Jordan Selph">
   <div class="member-content">
-    <h3>Bob Smith  ·  M.S. 2022</h3>
-    <p><strong>Thesis:</strong> “Privacy‑Preserving Vertical Federated Learning for Multi‑Hospital EHR Data.”</p>
+    <h3>Jordan Selph  ·  M.S. (Fall 2024)</h3>
+    <p><strong>Project:</strong> “The Science of Soccer: Predicting Premier League Outcomes Using Historical Data.”</p>
+  </div>
+</div>
+
+<div class="member-row">
+  <img src="{{ '/images/profile.png' | relative_url }}" alt="Milan Artis">
+  <div class="member-content">
+    <h3>Milan Artis  ·  M.S. (Summer 2024)</h3>
+    <p><strong>Thesis:</strong> “A Comparative Study of the Performance of Machine Learning Methods and Deep Neural Networks in Network Intrusion Detection.”</p>
   </div>
 </div>
 
