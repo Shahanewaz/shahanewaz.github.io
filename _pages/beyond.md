@@ -18,8 +18,9 @@ classes:      wide
   flex: 1 1 60%;
 }
 .outside-row img {
-  max-width: 200px;
+  max-width: 150px;
   height: auto;
+  object-fit: contain;
   border-radius: 6px;
 }
 </style>
