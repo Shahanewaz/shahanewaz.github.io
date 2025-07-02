@@ -13,12 +13,12 @@ Education
 ======
 * Ph.D. in Computer Engineering, Iowa State University, 2023  
   * Thesis: *A general framework of estimating information leakage for privacy and forensics problems with imperfect statistical information*  
-  * Advisors: Dr. Yong Guan and Dr. George Amariucai  
+  * Advisors: [Dr. Yong Guan](https://home.engineering.iastate.edu/~guan/) and [Dr. George Amariucai](https://traianamariucai.wixsite.com/amariucai)  
   * Focus Area: Secure and Reliable Computing  
 
 * B.Sc. in Electrical and Electronic Engineering, BUET, 2015  
   * Focus Area: Wireless Communication and Signal Processing  
-  * Advisor: Dr. Md. Saifur Rahman  
+  * Advisor: [Dr. Md. Saifur Rahman](https://eee.buet.ac.bd/people/faculty/dmsr)  
 
 Work Experience
 ======
@@ -30,9 +30,9 @@ Work Experience
 
 Courses Taught
 ======
-* **Database and Database Security** – Fall 2024  
-* **Advanced Topics in Artificial Intelligence** – Spring 2024, Spring 2025  
-* **Biometrics and Cryptography** – Spring 2025  
+* Database and Database Security – Fall 2024  
+* Advanced Topics in Artificial Intelligence – Spring 2024, Spring 2025  
+* Biometrics and Cryptography – Spring 2025  
 
 Service and Leadership
 ======
