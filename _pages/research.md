@@ -54,7 +54,6 @@ classes:      wide
 </div>
 
 <div class="member-row">
-  <img src="{{ '/images/profile.png' | relative_url }}" alt="Jordan Selph">
   <div class="member-content">
     <h3>Jordan Selph  ·  M.S. (Fall 2024)</h3>
     <p><strong>Project Title:</strong> “The Science of Soccer: Predicting Premier League Outcomes Using Historical Data.”</p>
@@ -62,7 +61,6 @@ classes:      wide
 </div>
 
 <div class="member-row">
-  <img src="{{ '/images/profile.png' | relative_url }}" alt="Milan Artis">
   <div class="member-content">
     <h3>Milan Artis  ·  M.S. (Summer 2024)</h3>
     <p><strong>Thesis:</strong> “A Comparative Study of the Performance of Machine Learning Methods and Deep Neural Networks in Network Intrusion Detection.”</p>
