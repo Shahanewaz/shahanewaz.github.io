@@ -15,9 +15,10 @@ classes:      wide
   margin: 2rem 0;
 }
 .member-row img {
-  width: 100px;
-  height: auto; /* preserves original aspect ratio */
-  border-radius: 4px;
+  width: 100%;
+  max-width: 150px;
+  height: auto;
+  border-radius: 8px;
 }
 .member-content h3 {
   margin: 0 0 0.4rem 0;
