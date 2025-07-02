@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate and Senior Level Undergraduate course"
 permalink: /teaching/spring-teaching-2
 venue: "University of Tennessee at Chattanooga, Computer Science and Engineering"
+date: 2025-01-06
 location: "Chattanooga, TN"
 ---
 
