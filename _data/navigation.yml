@@ -33,7 +33,7 @@ main:
     url: /cv/
     
   - title: "Away from Academia"
-    url: /_pages/beyond.md
+    url: beyond
     
   # - title: "Away from Academia"
   #   url: /beyond/
