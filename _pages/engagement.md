@@ -12,7 +12,7 @@ classes:      wide
     <h3>Ethical AI Dialogues with Chattanooga AI Network</h3>
     <p>
       Participated in community-led discussions hosted by the Chattanooga AI Network focused on the
-      <strong>ethical implications of AI in the workplace</strong>. The sessions promoted responsible AI practices
+      ethical implications of AI in the workplace. The sessions promoted responsible AI practices
       and thoughtful deployment strategies across regional industries.
     </p>
     <ul>
@@ -31,7 +31,7 @@ classes:      wide
   <div style="flex: 1; padding-right: 20px;">
     <h3>Judge, Southeast Collegiate Cyber Defense Competition (SECCDC) 2024</h3>
     <p>
-      Served as a <strong>competition judge</strong> for SECCDC 2024, mentoring and evaluating teams in a
+      Served as a competition judge for SECCDC 2024, mentoring and evaluating teams in a
       high-pressure cybersecurity defense simulation.
     </p>
     <ul>
@@ -50,8 +50,8 @@ classes:      wide
   <div style="flex: 1; padding-right: 20px;">
     <h3>Hosting Seminar: "AI Security & Student Readiness"</h3>
     <p>
-      Organized and led a seminar on the growing importance of <strong>AI security</strong> and how to
-      <strong>equip students</strong> to contribute to secure and trustworthy AI development.
+      Organized and led a seminar on the growing importance of AI security and how to
+      equip students to contribute to secure and trustworthy AI development.
     </p>
     <ul>
       <li>Addressed security risks in modern AI systems</li>
