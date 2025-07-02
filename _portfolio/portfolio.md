@@ -19,7 +19,7 @@ classes:      wide                 # optional wider text column
 
 ## Project Portfolio
 
-My work is grounded in building **trustworthy AI systems** that are not only effective but also safe, fair, and respectful of user privacy. I'm especially interested in designing machine‑learning pipelines that are resilient against privacy attacks, robust to adversarial manipulation, and transparent in their decision‑making. This includes working on differential privacy, vertical federated learning, explanation robustness, and bias mitigation in large language models. I approach these challenges with an emphasis on **translational impact**, aiming to bring theoretical guarantees into practical use—especially in sensitive domains like healthcare and security.
+My work is grounded in building **trustworthy AI systems** that are not only effective but also safe, fair, and respectful of user privacy. I'm especially interested in designing machine‑learning pipelines that are resilient against privacy attacks, robust to adversarial manipulation, and transparent in their decision‑making. This includes working on differential privacy, vertical federated learning, explanation robustness, and bias mitigation in large language models. I approach these challenges with an emphasis on **translational impact**, aiming to bring theoretical guarantees into practical use, especially in sensitive domains like healthcare and security.
 
 ---
 
