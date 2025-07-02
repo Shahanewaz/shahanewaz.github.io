@@ -32,20 +32,18 @@ Here’s a quick look at what I do and what I am passionate about:
 
 🧑‍🏫 **Teaching**
 
-I teach courses such as **Advanced Database & Security**, **Advanced Topics in AI**, and **Biometrics & Cryptography**, with a focus on hands-on, research-driven learning.  
+I teach courses such as Advanced Database & Security, Advanced Topics in AI, and Biometrics & Cryptography, with a focus on hands-on, research-driven learning.  
 
 ---
 
 🗞️ **Recent Highlights**
-- *June 2025*: Selected to serve as **Technical Program Committee Chair** for the **IEEE DISTILL 2025 Workshop**, co-located with **IEEE TPS 2025**
-- *May 2025*: Awarded **Ruth S. Holmberg Grant** for the project titled **Empowering the Next Generation of AI Security Leaders through Hands-on Research, Outreach, and Scalable Educational Models**  
-- *March 2025*: Our paper **"Battling Misinformation: An Empirical Study on Adversarial Factuality in Open-Source Large Language Models"** was accepted to the **TrustNLP Workshop at NAACL 2025**  
-- *Dec 2024*: The paper **"Information Leakage Measures for Imperfect Statistical Information: Application to Non-Bayesian Framework"** was accepted in **IEEE Transactions on Information Forensics and Security**  
-- *Oct 2024*: Received acceptance for our paper **"Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations"** at the **2024 IEEE International Conference on Big Data**  
-- *Jan 2024*: Started my position as **Assistant Professor** at the **University of Tennessee at Chattanooga**
+- *June 2025*: Selected to serve as Technical Program Committee Chair for the IEEE DISTILL 2025 Workshop, co-located with IEEE TPS 2025
+- *May 2025*: Awarded Ruth S. Holmberg Grant for the project titled Empowering the Next Generation of AI Security Leaders through Hands-on Research, Outreach, and Scalable Educational Models  
+- *March 2025*: Our paper "Battling Misinformation: An Empirical Study on Adversarial Factuality in Open-Source Large Language Models" was accepted to the TrustNLP Workshop at NAACL 2025 
+- *Dec 2024*: The paper "Information Leakage Measures for Imperfect Statistical Information: Application to Non-Bayesian Framework" was accepted in IEEE Transactions on Information Forensics and Security  
+- *Oct 2024*: Received acceptance for our paper "Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations" at the 2024 IEEE International Conference on Big Data
   
 ---
 
 🤝 **Collaboration Opportunities**  
-I am always happy to connect with fellow researchers, students, or industry collaborators interested in advancing responsible AI.  
-Whether it’s about research partnerships, mentoring opportunities, or just exchanging ideas, feel free to [reach out](mailto:sakib1@utc.edu).
+I am always happy to connect with fellow researchers, students, or industry collaborators interested in advancing responsible AI. Whether it’s about research partnerships, mentoring opportunities, or just exchanging ideas, feel free to [reach out](mailto:sakib1@utc.edu).
