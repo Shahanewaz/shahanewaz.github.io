@@ -36,8 +36,14 @@ Courses Taught
 
 Service and Leadership
 ======
-* TPC Chair, IEEE Conference on Trust, Privacy & Security in Intelligent Systems 2025  
-* Reviewer, AAAI, IEEE Communications Magazine, ACM ToN, PPAI-25, ICDF2C  
+- **Technical Program Committee Chair**  
+  *[IEEE DISTILL 2025: Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs](https://ieeedistill.github.io/)*
+
+- **Reviewer**  
+  *[IEEE Communications Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35)*  
+  *[IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)*  
+  *[PPAI-25: The 6th AAAI Workshop on Privacy-Preserving Artificial Intelligence](https://ppai-workshop.github.io/)*  
+  *[16th EAI International Conference on Digital Forensics & Cyber Crime](https://icdf2c.eai-conferences.org/2025/)* 
 
 Mentorship
 ======
