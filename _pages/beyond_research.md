@@ -39,5 +39,5 @@
     <h3>🏸 Active on and off the field</h3>
     <p>In addition to watching soccer, I enjoy playing both soccer and badminton. It is mostly badminton these days. I have taken part in several local tournaments and find it to be a fun and energizing way to stay active.</p>
   </div>
-  <img src="{{ '/images/badminton.PNG' | relative_url }}" alt="Badminton Player">
+  <img src="{{ '/images/badminton.png' | relative_url }}" alt="Badminton Player">
 </div>
