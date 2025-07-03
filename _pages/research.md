@@ -39,7 +39,7 @@ classes:      wide
   <img src="{{ '/images/Ammar.jpg' | relative_url }}" alt="Ammar Tojaga">
   <div class="member-content">
     <h3>Ammar Tojaga · M.S. Student (2025 - )</h3>
-    <p>Ammar Tojaga is pursuing his Master’s in Cybersecurity at UTC while working full-time as a software engineer at TVA. He is working on to develop a competitive learning platform that introduces students to AI safety and prompt injection. In his free time, he enjoys soccer, the outdoors, and working on side projects.</p>
+    <p>Ammar Tojaga is pursuing his Master’s in Cybersecurity at UTC while working full-time as a software engineer at TVA. He is working on developing a competitive learning platform that introduces students to AI safety and prompt injection. In his free time, he enjoys soccer, the outdoors, and working on side projects.</p>
   </div>
 </div>
 
