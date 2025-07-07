@@ -23,6 +23,24 @@ classes:      wide
   object-fit: contain;
   border-radius: 6px;
 }
+
+  .photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 1rem;
+  margin-bottom: 3rem;
+}
+.photo-gallery img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+.photo-gallery img:hover {
+  transform: scale(1.05);
+}
 </style>
 
 <div class="outside-row">
@@ -44,4 +62,11 @@ classes:      wide
     <h3>🏸 Active on and off the field</h3>
     <p>In addition to watching soccer, I enjoy playing both soccer and badminton. It is mostly badminton these days. I have taken part in several local tournaments and find it to be a fun and energizing way to stay active.</p>
   </div>
+</div>
+
+<h3>📸 Snapshots from Life</h3>
+<div class="photo-gallery">
+  <img src="{{ '/images/chattanooga.jpg' | relative_url }}" alt="Chattanooga">
+  <img src="{{ '/images/florida.jpg' | relative_url }}" alt="Florida">
+  <img src="{{ '/images/workshop.jpg' | relative_url }}" alt="Workshop">
 </div>
