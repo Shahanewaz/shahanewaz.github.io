@@ -1,5 +1,6 @@
 ## Who I Am Outside the Lab
 
+{% raw %}
 <style>
 .outside-row {
   display: flex;
@@ -35,6 +36,7 @@
   transform: scale(1.05);
 }
 </style>
+{% endraw %}
 
 <div class="outside-row">
   <div class="text">
