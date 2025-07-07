@@ -24,33 +24,6 @@ classes:      wide
   border-radius: 6px;
 }
   
-.photo-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 1.5rem;
-  margin-bottom: 3rem;
-}
-
-.photo-item {
-  border-radius: 10px;
-  overflow: hidden;
-  transition: box-shadow 0.3s ease, transform 0.3s ease;
-}
-
-.photo-item:hover {
-  box-shadow: 0 0 0 4px rgba(0, 123, 255, 0.25); 
-  transform: scale(1.03);
-}
-
-.photo-item img {
-  width: 100%;
-  height: 200px; 
-  object-fit: cover;
-  border-radius: 8px;
-  display: block;
-  transition: transform 0.3s ease;
-}
-  
 </style>
 
 <div class="outside-row">
@@ -74,9 +47,142 @@ classes:      wide
   </div>
 </div>
 
-<h3>📸 Snapshots from Life</h3>
-<div class="photo-gallery">
-  <div class="photo-item"><img src="{{ '/images/chattanooga.jpg' | relative_url }}" alt="Chattanooga"></div>
-  <div class="photo-item"><img src="{{ '/images/florida.jpg' | relative_url }}" alt="Florida"></div>
-  <div class="photo-item"><img src="{{ '/images/workshop.jpg' | relative_url }}" alt="Workshop"></div>
+## 📸 Snapshots from Life
+
+<div class="slideshow-container">
+
+  <div class="mySlides fade">
+    <img src="{{ '/images/chattanooga.jpg' | relative_url }}" alt="Chattanooga">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="{{ '/images/florida.jpg' | relative_url }}" alt="Florida">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="{{ '/images/workshop.jpg' | relative_url }}" alt="Workshop">
+  </div>
+
+  <!-- Arrows -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+  <!-- Dots -->
+  <div class="dots-container">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+  </div>
+
 </div>
+
+<style>
+.slideshow-container {
+  position: relative;
+  max-width: 800px;
+  margin: 2rem auto;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.mySlides {
+  display: none;
+}
+
+.mySlides img {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+  display: block;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  transition: 0.3s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  z-index: 10;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.dots-container {
+  text-align: center;
+  background: #fff;
+  padding: 10px 0;
+}
+
+.dot {
+  height: 12px;
+  width: 12px;
+  margin: 0 6px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.dot.active {
+  background-color: #007bff;
+}
+
+@media (max-width: 600px) {
+  .mySlides img {
+    height: 250px;
+  }
+  .prev, .next {
+    font-size: 18px;
+    padding: 10px;
+  }
+}
+</style>
+
+<script>
+let slideIndex = 1;
+let slideTimer;
+
+function showSlides(n) {
+  const slides = document.getElementsByClassName("mySlides");
+  const dots = document.getElementsByClassName("dot");
+  if (n > slides.length) { slideIndex = 1; }
+  if (n < 1) { slideIndex = slides.length; }
+  for (let slide of slides) {
+    slide.style.display = "none";
+  }
+  for (let dot of dots) {
+    dot.classList.remove("active");
+  }
+  slides[slideIndex - 1].style.display = "block";
+  dots[slideIndex - 1].classList.add("active");
+
+  clearTimeout(slideTimer);
+  slideTimer = setTimeout(() => plusSlides(1), 3000);
+}
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  showSlides(slideIndex);
+});
+</script>
