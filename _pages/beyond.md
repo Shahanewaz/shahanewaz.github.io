@@ -63,6 +63,10 @@ classes:      wide
     <img src="{{ '/images/workshop.jpg' | relative_url }}" alt="Workshop">
   </div>
 
+  <div class="mySlides fade">
+    <img src="{{ '/images/office_view.jpg' | relative_url }}" alt="Office View">
+  </div>
+
   <!-- Arrows -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -171,7 +175,7 @@ function showSlides(n) {
   dots[slideIndex - 1].classList.add("active");
 
   clearTimeout(slideTimer);
-  slideTimer = setTimeout(() => plusSlides(1), 3000);
+  slideTimer = setTimeout(() => plusSlides(1), 5000);
 }
 
 function plusSlides(n) {
