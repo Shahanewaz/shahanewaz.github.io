@@ -44,7 +44,7 @@ classes:      wide
 
 .photo-item img {
   width: 100%;
-  height: 300px; 
+  height: 200px; 
   object-fit: cover;
   border-radius: 8px;
   display: block;
