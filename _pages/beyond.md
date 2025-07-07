@@ -23,24 +23,34 @@ classes:      wide
   object-fit: contain;
   border-radius: 6px;
 }
-
-  .photo-gallery {
+  
+.photo-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.5rem;
   margin-bottom: 3rem;
 }
-.photo-gallery img {
+
+.photo-item {
+  border-radius: 10px;
+  overflow: hidden;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.photo-item:hover {
+  box-shadow: 0 0 0 4px rgba(0, 123, 255, 0.25); 
+  transform: scale(1.03);
+}
+
+.photo-item img {
   width: 100%;
-  height: 200px; /* Adjust this value to make images taller or shorter */
+  height: 300px; 
   object-fit: cover;
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: block;
   transition: transform 0.3s ease;
 }
-.photo-gallery img:hover {
-  transform: scale(1.05);
-}
+  
 </style>
 
 <div class="outside-row">
@@ -66,7 +76,7 @@ classes:      wide
 
 <h3>📸 Snapshots from Life</h3>
 <div class="photo-gallery">
-  <img src="{{ '/images/chattanooga.jpg' | relative_url }}" alt="Chattanooga">
-  <img src="{{ '/images/florida.jpg' | relative_url }}" alt="Florida">
-  <img src="{{ '/images/workshop.jpg' | relative_url }}" alt="Workshop">
+  <div class="photo-item"><img src="{{ '/images/chattanooga.jpg' | relative_url }}" alt="Chattanooga"></div>
+  <div class="photo-item"><img src="{{ '/images/florida.jpg' | relative_url }}" alt="Florida"></div>
+  <div class="photo-item"><img src="{{ '/images/workshop.jpg' | relative_url }}" alt="Workshop"></div>
 </div>
