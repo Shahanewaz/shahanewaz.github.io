@@ -41,3 +41,30 @@
   </div>
   <img src="{{ '/images/badminton.png' | relative_url }}" alt="Badminton Player">
 </div>
+
+<style>
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 1rem;
+  margin-bottom: 3rem;
+}
+.photo-gallery img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+.photo-gallery img:hover {
+  transform: scale(1.05);
+}
+</style>
+
+<h3 style="margin-bottom: 1rem;">📸 Snapshots from Life</h3>
+<div class="photo-gallery">
+  <img src="{{ '/images/chattanooga.jpg' | relative_url }}" alt="Chattanooga">
+  <img src="{{ '/images/florida.jpg' | relative_url }}" alt="Florida">
+  <img src="{{ '/images/workshop.jpg' | relative_url }}" alt="Workshop">
+</div>
