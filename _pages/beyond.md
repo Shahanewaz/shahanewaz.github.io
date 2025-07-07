@@ -32,7 +32,7 @@ classes:      wide
 }
 .photo-gallery img {
   width: 100%;
-  height: auto;
+  height: 200px; /* Adjust this value to make images taller or shorter */
   object-fit: cover;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
