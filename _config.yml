@@ -38,6 +38,9 @@ footer:
   copyright:
     enabled: false       # hide the Minimal‑Mistakes attribution
 
+atom_feed:
+  hide: true          # removes the “Follow: Feed” entry
+
 ###############################################################################
 #  Content collections
 ###############################################################################
