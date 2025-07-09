@@ -67,6 +67,38 @@ classes:      wide
     <img src="{{ '/images/office_view.jpg' | relative_url }}" alt="Office View">
   </div>
 
+  <div class="mySlides fade">
+    <img src="{{ '/images/las_vegas.jpg' | relative_url }}" alt="Las vegas">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="{{ '/images/arizona.jpg' | relative_url }}" alt="Arizona">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="{{ '/images/badminton_1.JPG' | relative_url }}" alt="Badminton Solo">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="{{ '/images/badminton_2.jpg' | relative_url }}" alt="Badminton Group">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="{{ '/images/phd.jpg' | relative_url }}" alt="Major Prof">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="{{ '/images/ga_aqua.jpg' | relative_url }}" alt="GA aquarium">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="{{ '/images/fnf.jpeg' | relative_url }}" alt="Family and Friends">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="{{ '/images/soccer.jpeg' | relative_url }}" alt="Soccer Group">
+  </div>
+
   <!-- Arrows -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -77,6 +109,14 @@ classes:      wide
     <span class="dot" onclick="currentSlide(2)"></span>
     <span class="dot" onclick="currentSlide(3)"></span>
     <span class="dot" onclick="currentSlide(4)"></span>
+    <span class="dot" onclick="currentSlide(5)"></span>
+    <span class="dot" onclick="currentSlide(6)"></span>
+    <span class="dot" onclick="currentSlide(7)"></span>
+    <span class="dot" onclick="currentSlide(8)"></span>
+    <span class="dot" onclick="currentSlide(9)"></span>
+    <span class="dot" onclick="currentSlide(10)"></span>
+    <span class="dot" onclick="currentSlide(11)"></span>
+    <span class="dot" onclick="currentSlide(12)"></span>
   </div>
 
 </div>
