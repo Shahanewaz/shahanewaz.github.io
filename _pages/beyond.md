@@ -76,7 +76,7 @@ classes:      wide
   </div>
 
   <div class="mySlides fade">
-    <img src="{{ '/images/badminton_1.JPG' | relative_url }}" alt="Badminton Solo">
+    <img src="{{ '/images/spiderman.jpg' | relative_url }}" alt="Spiderman Selfie">
   </div>
 
   <div class="mySlides fade">
