@@ -76,10 +76,6 @@ classes:      wide
   </div>
 
   <div class="mySlides fade">
-    <img src="{{ '/images/spiderman.jpg' | relative_url }}" alt="Spiderman Selfie">
-  </div>
-
-  <div class="mySlides fade">
     <img src="{{ '/images/badminton_2.jpg' | relative_url }}" alt="Badminton Group">
   </div>
 
@@ -116,7 +112,6 @@ classes:      wide
     <span class="dot" onclick="currentSlide(9)"></span>
     <span class="dot" onclick="currentSlide(10)"></span>
     <span class="dot" onclick="currentSlide(11)"></span>
-    <span class="dot" onclick="currentSlide(12)"></span>
   </div>
 
 </div>
