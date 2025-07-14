@@ -109,5 +109,5 @@ Here are a few recent publications highlighting my current research directions.
   <span class="author"><u>Shahnewaz Karim Sakib</u>, George T. Amariucai, Yong Guan</span>
 </div>
 
-For the complete list, please visit my&nbsp;<a href="https://scholar.google.com/citations?user=u5JRM_EAAAAJ&hl=en">Google Scholar profile</a>.
+For the complete list, please visit my&nbsp;<a href="https://scholar.google.com/citations?user=DgtMVfQAAAAJ&hl=en">Google Scholar profile</a>.
 ---
