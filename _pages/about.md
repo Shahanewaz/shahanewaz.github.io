@@ -37,6 +37,7 @@ I teach courses such as Advanced Database & Security, Advanced Topics in AI, and
 ---
 
 🗞️ **Recent Highlights**
+- *July 2025*: Our paper "Trustworthy Medical Imaging with Large Language Models: A Study of Hallucinations Across Modalities" was accepted to the CVAMD Workshop at ICCV 2025 
 - *June 2025*: Selected to serve as Technical Program Committee Chair for the IEEE DISTILL 2025 Workshop, co-located with IEEE TPS 2025
 - *May 2025*: Awarded Ruth S. Holmberg Grant for the project titled Empowering the Next Generation of AI Security Leaders through Hands-on Research, Outreach, and Scalable Educational Models  
 - *March 2025*: Our paper "Battling Misinformation: An Empirical Study on Adversarial Factuality in Open-Source Large Language Models" was accepted to the TrustNLP Workshop at NAACL 2025 
