@@ -35,17 +35,23 @@ classes:      wide
   </div>
 </div>
 
-<div class="member-row">
-  <img src="{{ '/images/Ammar.jpg' | relative_url }}" alt="Ammar Tojaga">
-  <div class="member-content">
-    <h3>Ammar Tojaga · M.S. Student (2025 - )</h3>
-    <p>Ammar Tojaga is pursuing his Master’s in Cybersecurity at UTC while working full-time as a software engineer at TVA. He is working on developing a competitive learning platform that introduces students to AI safety and prompt injection. In his free time, he enjoys soccer, the outdoors, and working on side projects.</p>
-  </div>
-</div>
-
 ---
 
 ## Graduated Students
+
+<div class="member-row">
+  <div class="member-content">
+    <h3>Ammar Tojaga  ·  M.S. (Summer 2025)</h3>
+    <p><strong>Project Title:</strong> “Design and Implementation of a Prompt Injection Competition Framework.”</p>
+  </div>
+</div>
+
+<div class="member-row">
+  <div class="member-content">
+    <h3>Wilson Garrett  ·  M.S. (Summer 2025)</h3>
+    <p><strong>Project Title:</strong> “Zero-Shot ID Document Validation: Combining EAST and TrOCR for Date Field Analysis.”</p>
+  </div>
+</div>
 
 <div class="member-row">
   <div class="member-content">
