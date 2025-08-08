@@ -41,7 +41,8 @@ Service and Leadership
 
 - **Reviewer**  
   *IEEE Communications Magazine*  
-  *IEEE/ACM Transactions on Networking*  
+  *IEEE/ACM Transactions on Networking*
+  *AAAI 2024 Fall Symposium Series: Machine Intelligence for Equitable Global Health (MI4EGH)*
   *PPAI-25: The 6th AAAI Workshop on Privacy-Preserving Artificial Intelligence*  
   *16th EAI International Conference on Digital Forensics & Cyber Crime* 
 
@@ -50,8 +51,9 @@ Mentorship
 **Graduate Students**
 * **Current**
   * Swati Kar (PhD) 
-  * Ammar Tojaga (MS)
 * **Graduated**
+  * Ammar Tojaga (MS) – Design and Implementation of a Prompt Injection Competition Framework (Summer 2025)
+  * Wilson Garrett (MS) – Zero-Shot ID Document Validation: Combining EAST and TrOCR for Date Field Analysis (Summer 2025)
   * Caleb Henderson (MS) – Benchmarking Variational Autoencoders for Single-Cell RNA-Seq on PBMC Data (Spring 2025)
   * Jordan Selph (MS) – The Science of Soccer: Predicting Premier League Outcomes Using Historical Data (Fall 2024)
   * Milan Artis (MS) – A Comparative Study of the Performance of Machine Learning Methods and Deep Neural Networks in Network Intrusion Detection (Summer 2024)  
