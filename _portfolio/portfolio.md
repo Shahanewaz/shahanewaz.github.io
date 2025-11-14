@@ -54,7 +54,7 @@ My work is grounded in building **trustworthy AI systems** that are not only eff
 ---
 
 <div class="thrust-row">
-  <img src="{{ '/images/Thrust_5' | relative_url }}" alt="Thrust 3">
+  <img src="{{ '/images/Thrust_5.png' | relative_url }}" alt="Thrust 3">
   <div class="thrust-content">
     <h3>🏥 Thrust 3 · Trustworthy AI for Medical Data: Utility, Privacy, and Hallucination Safety</h3>
     <p><strong>Objective:</strong> This thrust examines how AI systems behave in high-stakes medical environments, where privacy, safety, and clinical reliability must be balanced with model utility. It investigates the <em>tradeoff between utility and privacy</em> in health data workflows—showing how differential privacy, representation learning, and federated approaches can preserve patient confidentiality while retaining diagnostic value. This thrust also explores <em>hallucination risks</em> in medical LLMs, analyzing when and why models fabricate clinically incorrect information and introducing evaluation frameworks that quantify and mitigate hallucinations in sensitive biomedical contexts.</p>
