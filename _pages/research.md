@@ -84,7 +84,7 @@ Here are a few recent publications highlighting my current research directions.
   <a href="https://openreview.net/forum?id=vToEVGBhIH">
     <strong>Between Privacy and Utility: Navigating Inference Risks in De-Identified Health Data</strong>
   </a><br>
-  <span class="author"><br>Swati Kar</br>, Lokesh Chinthala, Akram Mohammed, Robert Davis, <u>Shahnewaz Karim Sakib</u></span>
+  <span class="author"><br><strong>Swati Kar</strong>, Lokesh Chinthala, Akram Mohammed, Robert Davis, <u>Shahnewaz Karim Sakib</u></span>
 </div>
 
 <div class="pub-entry">
