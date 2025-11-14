@@ -81,6 +81,20 @@ classes:      wide
 Here are a few recent publications highlighting my current research directions. 
 
 <div class="pub-entry">
+  <a href="https://openreview.net/forum?id=vToEVGBhIH">
+    <strong>Between Privacy and Utility: Navigating Inference Risks in De-Identified Health Data</strong>
+  </a><br>
+  <span class="author">Swati Kar, Lokesh Chinthala, Akram Mohammed, Robert Davis, Shahnewaz Karim Sakib</u></span>
+</div>
+
+<div class="pub-entry">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-032-08623-5_2">
+    <strong>Rethinking Learning: The Role of Unlearning in Generative AI-Based Conceptual Modeling</strong>
+  </a><br>
+  <span class="author">Shahnewaz Karim Sakib, Stephen W Liddle, Christopher J Lynch, Ameeta Agrawal, Philippe J Giabbanelli</u></span>
+</div>
+
+<div class="pub-entry">
   <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.174537593.33953859">
     <strong>Breaking the Shield: Vulnerabilities in Content Moderation for Multimodal Language Models</strong>
   </a><br>
