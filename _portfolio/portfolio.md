@@ -54,9 +54,24 @@ My work is grounded in building **trustworthy AI systems** that are not only eff
 ---
 
 <div class="thrust-row">
-  <img src="{{ '/images/thrust3.JPG' | relative_url }}" alt="Thrust 3">
+  <img src="{{ '/images/Thrust_5' | relative_url }}" alt="Thrust 3">
   <div class="thrust-content">
-    <h3>🔒 Thrust 3 · Privacy Leakage Metrics Under Incomplete Information </h3>
+    <h3>🏥 Thrust 3 · Trustworthy AI for Medical Data: Utility, Privacy, and Hallucination Safety</h3>
+    <p><strong>Objective:</strong> This thrust examines how AI systems behave in high-stakes medical environments, where privacy, safety, and clinical reliability must be balanced with model utility. It investigates the <em>tradeoff between utility and privacy</em> in health data workflows—showing how differential privacy, representation learning, and federated approaches can preserve patient confidentiality while retaining diagnostic value. This thrust also explores <em>hallucination risks</em> in medical LLMs, analyzing when and why models fabricate clinically incorrect information and introducing evaluation frameworks that quantify and mitigate hallucinations in sensitive biomedical contexts.</p>
+    <p class="paper-links">
+      <strong>Papers:</strong>
+      <a href="https://openreview.net/forum?id=vToEVGBhIH">Paper 1</a>
+      <a href="https://arxiv.org/abs/2504.19061">Paper 2</a>
+    </p>
+  </div>
+</div>
+
+---
+
+<div class="thrust-row">
+  <img src="{{ '/images/thrust3.JPG' | relative_url }}" alt="Thrust 4">
+  <div class="thrust-content">
+    <h3>🔒 Thrust 4 · Privacy Leakage Metrics Under Incomplete Information </h3>
     <p><strong>Objective:</strong> This thrust focuses on developing realistic information leakage metrics for privacy scenarios where adversaries have imperfect or incomplete knowledge about the data or the privacy mechanism. Unlike traditional approaches, which assume attackers know the entire statistical structure of the system, these works recognize that real-world adversaries often operate with only partial or estimated information. The thrust systematically introduces new subjective and objective leakage metrics that capture both the beliefs of adversaries and the actual leakage from the system, analyzing and optimizing these metrics for different privacy mechanisms, including extensions to complex, high-dimensional, and non-Bayesian settings.</p>
     <p class="paper-links">
       <strong>Papers:</strong>
@@ -71,9 +86,9 @@ My work is grounded in building **trustworthy AI systems** that are not only eff
 ---
 
 <div class="thrust-row">
-  <img src="{{ '/images/thrust4.PNG' | relative_url }}" alt="Thrust 4">
+  <img src="{{ '/images/thrust4.PNG' | relative_url }}" alt="Thrust 5">
   <div class="thrust-content">
-    <h3>🛡️ Thrust 4 · Scalable Privacy & Security Solutions</h3>
+    <h3>🛡️ Thrust 5 · Scalable Privacy & Security Solutions</h3>
     <p><strong>Objective:</strong> This thrust develops practical, scalable methods to protect sensitive data in AI and networked systems, including privacy-preserving learning, secure data sharing, and robust key management. It emphasizes solutions that balance strong privacy guarantees with real-world usability and performance.</p>
     <p class="paper-links">
       <strong>Papers:</strong>
