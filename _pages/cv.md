@@ -30,9 +30,10 @@ Work Experience
 
 Courses Taught
 ======
-* Database and Database Security – Fall 2024  
+* Database and Database Security – Fall 2024, Fall 2025  
 * Advanced Topics in Artificial Intelligence – Spring 2024, Spring 2025  
-* Biometrics and Cryptography – Spring 2025  
+* Biometrics and Cryptography – Spring 2025
+* Theory of Computer Programming Languages – Fall 2025
 
 Service and Leadership
 ======
