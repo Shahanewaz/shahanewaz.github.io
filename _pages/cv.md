@@ -38,14 +38,14 @@ Courses Taught
 Service and Leadership
 ======
 - **Technical Program Committee Chair**  
-  *IEEE DISTILL 2025: Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs*
+  - *IEEE DISTILL 2025: Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs*
 
 - **Reviewer**  
-  *IEEE Communications Magazine*  
-  *IEEE/ACM Transactions on Networking*
-  *AAAI 2024 Fall Symposium Series: Machine Intelligence for Equitable Global Health (MI4EGH)*
-  *PPAI-25: The 6th AAAI Workshop on Privacy-Preserving Artificial Intelligence*  
-  *16th EAI International Conference on Digital Forensics & Cyber Crime* 
+  - *IEEE Communications Magazine*  
+  - *IEEE/ACM Transactions on Networking*  
+  - *AAAI 2024 Fall Symposium Series: Machine Intelligence for Equitable Global Health (MI4EGH)*  
+  - *PPAI-25: The 6th AAAI Workshop on Privacy-Preserving Artificial Intelligence*  
+  - *16th EAI International Conference on Digital Forensics & Cyber Crime*
 
 Mentorship
 ======
