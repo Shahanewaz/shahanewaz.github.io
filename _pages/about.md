@@ -37,6 +37,27 @@ I teach courses such as Advanced Database & Security, Advanced Topics in AI, and
 ---
 
 🗞️ **Recent Highlights**
+
+<ul>
+  <li><i>December 2025</i>: Attended the <a href="https://emse.engineering.gwu.edu/nsf-satc-aspiring-pi-workshop">NSF/SaTC Aspiring PI Workshop</a> at George Washington University (Washington, DC), focused on crafting competitive proposals and understanding the NSF SaTC review process.</li>
+  <li><i>August 2025</i>: Our paper "Between Privacy and Utility: Navigating Inference Risks in De-Identified Health Data" was accepted to the IEEE EMBS BHI 2025. This is the first paper of my Ph.D. student Swati!</li>
+  <li><i>July 2025</i>: Our paper "Trustworthy Medical Imaging with Large Language Models: A Study of Hallucinations Across Modalities" was accepted to the CVAMD Workshop at ICCV 2025.</li>
+  <li><i>June 2025</i>: Selected to serve as Technical Program Committee Chair for the IEEE DISTILL 2025 Workshop, co-located with IEEE TPS 2025.</li>
+  <li><i>May 2025</i>: Awarded Ruth S. Holmberg Grant for the project titled Empowering the Next Generation of AI Security Leaders through Hands-on Research, Outreach, and Scalable Educational Models.</li>
+</ul>
+
+<details>
+  <summary><b>Show more</b></summary>
+
+<ul>
+  <li><i>March 2025</i>: Our paper "Battling Misinformation: An Empirical Study on Adversarial Factuality in Open-Source Large Language Models" was accepted to the TrustNLP Workshop at NAACL 2025.</li>
+  <li><i>Dec 2024</i>: The paper "Information Leakage Measures for Imperfect Statistical Information: Application to Non-Bayesian Framework" was accepted in IEEE Transactions on Information Forensics and Security.</li>
+  <li><i>Oct 2024</i>: Received acceptance for our paper "Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations" at the 2024 IEEE International Conference on Big Data.</li>
+</ul>
+
+</details>
+
+- *December 2025*: Attended the [NSF/SaTC Aspiring PI Workshop](https://emse.engineering.gwu.edu/nsf-satc-aspiring-pi-workshop) at George Washington University (Washington, DC), focused on crafting competitive proposals and understanding the NSF SaTC review process. 
 - *August 2025*: Our paper "Between Privacy and Utility: Navigating Inference Risks in De-Identified Health Data" was accepted to the IEEE EMBS BHI 2025. This is the first paper of my Ph.D. student Swati! 
 - *July 2025*: Our paper "Trustworthy Medical Imaging with Large Language Models: A Study of Hallucinations Across Modalities" was accepted to the CVAMD Workshop at ICCV 2025 
 - *June 2025*: Selected to serve as Technical Program Committee Chair for the IEEE DISTILL 2025 Workshop, co-located with IEEE TPS 2025
