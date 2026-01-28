@@ -31,7 +31,7 @@ classes:      wide
   <img src="{{ '/images/swati.png' | relative_url }}" alt="Swati Kar">
   <div class="member-content">
     <h3>Swati Kar · Ph.D. Student (2025 – )</h3>
-    <p>Swati Kar is a first-year Ph.D. student in the Department of Computer Science and Engineering at the University of Tennessee at Chattanooga. Her research focuses on trustworthy and interpretable artificial intelligence. She earned her bachelor's degree from Rajshahi University of Engineering and Technology (Bangladesh) and her M.Sc. from Clarkson University (USA). In her free time, she enjoys traveling and fishing.</p>
+    <p>Swati Kar is a second-year Ph.D. student in the Department of Computer Science and Engineering at the University of Tennessee at Chattanooga. Her research focuses on trustworthy and interpretable artificial intelligence. She earned her bachelor's degree from Rajshahi University of Engineering and Technology (Bangladesh) and her M.Sc. from Clarkson University (USA). In her free time, she enjoys traveling and fishing.</p>
   </div>
 </div>
 
