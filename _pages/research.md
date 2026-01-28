@@ -35,6 +35,14 @@ classes:      wide
   </div>
 </div>
 
+<div class="member-row">
+  <img src="{{ '/images/swati.png' | relative_url }}" alt="Alec Parten">
+  <div class="member-content">
+    <h3>Swati Kar · M.S. Student (2025 – )</h3>
+    <p>Alec Parten is a Masters student in his final year. His interests in computing include machine learning and algorithms, among others. He received a Bachelor of Science in Computer Science from the University of Tennessee, Knoxville</p>
+  </div>
+</div>
+
 ---
 
 ## Graduated Students
