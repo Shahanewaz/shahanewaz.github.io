@@ -45,7 +45,7 @@ I teach courses such as Advanced Database & Security, Advanced Topics in AI, and
   <li><i>August 2025</i>: Our paper "Between Privacy and Utility: Navigating Inference Risks in De-Identified Health Data" was accepted to the IEEE EMBS BHI 2025. This is the first paper of my Ph.D. student Swati!</li>
   <li><i>July 2025</i>: Our paper "Trustworthy Medical Imaging with Large Language Models: A Study of Hallucinations Across Modalities" was accepted to the CVAMD Workshop at ICCV 2025.</li>
   <li><i>June 2025</i>: Selected to serve as Technical Program Committee Chair for the <a href="https://ieeedistill.github.io/">IEEE DISTILL 2025 Workshop</a>, co-located with IEEE TPS 2025.</li>
-  <li><i>May 2025</i>: Awarded <a href="https://blog.utc.edu/news/2025/09/utc-celebrates-faculty-with-grants-professorships-promotions-and-professional-development-leave>"Ruth S. Holmberg Grant</a> for the project titled Empowering the Next Generation of AI Security Leaders through Hands-on Research, Outreach, and Scalable Educational Models.</li>
+  <li><i>May 2025</i>: Awarded <a href="https://blog.utc.edu/news/2025/09/utc-celebrates-faculty-with-grants-professorships-promotions-and-professional-development-leave">Ruth S. Holmberg Grant</a> for the project titled Empowering the Next Generation of AI Security Leaders through Hands-on Research, Outreach, and Scalable Educational Models.</li>
 </ul>
 
 <details>
