@@ -39,6 +39,7 @@ I teach courses such as Advanced Database & Security, Advanced Topics in AI, and
 🗞️ **Recent Highlights**
 
 <ul>
+  <li><i>April 2026</i>: Invited to join an NSF panel. </li>
   <li><i>February 2026</i>: Serving as an Associate Editor for  <a href="https://embc.embs.org/2026/">IEEE EMBC 2026</a> Theme 9: Biomedical Health Informatics. </li>
   <li><i>January 2026</i>: Awarded the <a href="https://blog.utc.edu/news/2026/02/mocs-innovate-mini-grants-help-researchers-take-the-next-step/">MOCS Innovate! Grant </a>, sponsored by the Clarence E. Harris Chair of Excellence in Entrepreneurship, to develop an accreditation-focused AI agent that generates course artifacts with built-in accessibility and student-privacy checks. </li>
   <li><i>December 2025</i>: Attended the <a href="https://engineering.gwu.edu/gw-engineering-serves-vital-link-aspiring-cyber-researchers">NSF SaTC Aspiring PI Workshop</a> at George Washington University (Washington, DC), focused on crafting competitive proposals and understanding the NSF SaTC review process.</li>
